@@ -264,6 +264,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC
       objectReference: {fileID: 0}
+    - target: {fileID: 4036291790952211470, guid: afa12a296731ad247ad1cfaf04d2f719,
+        type: 3}
+      propertyPath: dialogueBox
+      value: 
+      objectReference: {fileID: 7774833115180008970}
     - target: {fileID: 4578314203457471459, guid: afa12a296731ad247ad1cfaf04d2f719,
         type: 3}
       propertyPath: m_LocalPosition.x
