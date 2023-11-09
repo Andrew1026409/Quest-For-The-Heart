@@ -395,13 +395,13 @@ Material:
     m_Ints: []
     m_Floats:
     - Vector1_11138D6F: 1
-    - Vector1_20c696dddd9b4ec3812508c4d9769d47: 1
+    - Vector1_20c696dddd9b4ec3812508c4d9769d47: 0
     - Vector1_3413C06: 1
     - Vector1_481902A4: 0.5
     - Vector1_4B065022: 1
     - Vector1_4B899B85: 1
     - Vector1_4CCFFBA4: 1
-    - Vector1_4DB1965E: 1
+    - Vector1_4DB1965E: 0
     - Vector1_4DCE775A: 1.2
     - Vector1_52647ED2: 1.2
     - Vector1_5AD705F1: 1
