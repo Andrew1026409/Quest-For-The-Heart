@@ -29,7 +29,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_DiffusionProfileReferences:
-  - {fileID: 11400000, guid: 78322c7f82657514ebe48203160e3f39, type: 2}
+  - {fileID: 0}
   m_MaterialReferences: []
 --- !u!21 &2100000
 Material:
